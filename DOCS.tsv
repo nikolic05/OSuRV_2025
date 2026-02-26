@@ -8,7 +8,7 @@ Flags	Група 3 - Четвртак 9:45-12:25		Jetson shield	https://github.c
 Oximeter	Група 3 - Четвртак 9:45-12:25		senzori	https://github.com/smiljakrulj/OSuRV_2025	https://youtu.be/QhFH0FVt4hI?si=0s-enTSTCH3rRLCF
 RC_Tank	Група 1 - Четвртак 7:00-9:30	tank chasis + camera	Tenk, RPI camera?	https://github.com/boskomit/OSuRV_2025	https://www.youtube.com/watch?v=keiiRF_RTXY
 Radar	Група 3 - Четвртак 9:45-12:25	TOFs, ultrasound distance	EC	TODO	https://youtu.be/WlyI615EEv0
-Fingerprint_Lock	Група 2 - Петак 8:30-11:00	door(electronic locking)+fingerprint	Vrata	TODO	TODO
+Fingerprint_Lock	Група 2 - Петак 8:30-11:00	door(electronic locking)+fingerprint	Vrata	 https://github.com/nikolic05/OSuRV_2025 https://youtu.be/sescd2z-CuA?si=Fg1xONOKqFUW6IuE
 Robo_Arm		robot arm + some camera	Jetson shield, Ruka	TODO	TODO
 Bosch_1				TODO	TODO
 Bosch_2				TODO	TODO
